@@ -1,0 +1,15 @@
+[submodule "Project-1/Movie-theater-web-app"]
+	path = Project-1/Movie-theater-web-app
+	url = https://github.com/jason-qs/Movie-theater-web-app
+[submodule "Project-2/CI-CD-Project"]
+	path = Project-2/CI-CD-Project
+	url = https://github.com/jason-qs/CI-CD-Project
+[submodule "Project-3/Project-3"]
+	path = Project-3/Project-3
+	url = https://github.com/Flamingos-Multiverse/Project-3
+[submodule "Project-4/kotlin-game"]
+	path = Project-4/kotlin-game
+	url = https://github.com/jason-qs/kotlin-game
+[submodule "Project-5/Restaurant-reviewer"]
+	path = Project-5/Restaurant-reviewer
+	url = https://github.com/jason-qs/Restaurant-reviewer
